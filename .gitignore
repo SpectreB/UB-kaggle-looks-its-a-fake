@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Claude Code
+.claude/
+
+# Working artifacts from notebook extraction sessions
+extracted_cell_*.py
+extraction_results.txt
+
+# Raw / messy working notebooks — only clean versions are tracked
+part2/look_its_a_fake_part_2.ipynb
